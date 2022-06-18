@@ -1,0 +1,103 @@
+a {
+  color: inherit;
+}
+
+#eat {
+  width: 1036px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.seokjae_0 {
+  width: 1036px;
+  height: 100px;
+  text-align: center;
+  background-color: rgba(45, 109, 204, 0.8);
+  color:white;
+  border-radius: 30px;
+  margin: 50px auto 50px auto;
+  padding-top:35px;
+}
+
+.seokjae_site {
+  width: 1036px;
+  background-color: rgba(206, 206, 206, 0.2);
+  border-radius: 60px;
+  text-align: center;
+  margin: auto auto 100px auto;
+  padding : 20px 80px;
+  padding-bottom: 20px;
+  clear: both;
+  overflow: hidden;
+  min-width: 1000px;
+}
+  
+.img {
+  float: left;
+  width: 250px;
+  margin: 10px;
+  border: 1px solid black;
+  text-align: center;      
+}
+      
+.schoolfood-s_1 {
+  text-align: left;
+}
+      
+.seokjae_site > p{
+  text-align: center;
+  clear: both;
+}
+  
+.seokjae_site > .location-s_imgs_1{
+  display: block;
+  height: auto;
+  text-align: center;
+  justify-content: center; 
+}
+    
+.seokjae_site >.loction-s_imgs{
+  text-align: center;
+  justify-content: center;
+}
+    
+.name {
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.colgroup {
+  text-align: center;
+  margin-left: 10%;
+}
+    
+.tg  {
+  border-collapse:collapse;border-spacing:0;
+}
+.tg td {
+  border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;
+}
+.tg th {
+  border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;
+}
+.tg .tg-a6rl {
+  background-color:#68cbd0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top
+}
+.tg .tg-6ibf {
+  border-color:inherit;font-size:24px;text-align:center;vertical-align:top
+}
+.tg .tg-7btt {
+  border-color:inherit;font-weight:bold;text-align:center;vertical-align:top
+}
+.tg .tg-dtsa {
+  border-color:#000000;color:#fe0000;font-size:24px;text-align:center;vertical-align:top
+}
+.tg .tg-7jts {
+  border-color:inherit;font-size:18px;text-align:center;vertical-align:top
+}
+     
+      
+        

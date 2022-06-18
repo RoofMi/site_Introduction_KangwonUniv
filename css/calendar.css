@@ -1,0 +1,73 @@
+.container{
+    margin:150px 100px 50px 100px;
+}
+
+.cp_title {
+    font-size: 45px;
+    text-align: center;
+    font-weight: bold;
+    padding-bottom:20px;
+}
+
+.calendar_1 {
+    margin-top: 70px;
+    display: block;
+}
+
+.calendar_1 > h1 {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.calendar_1 > p {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 15px;
+    line-height: 35px;
+}
+.calendar_name {
+    height: auto;
+    text-align: center;
+    background-color: rgba(45, 109, 204, 0.8);
+    color:white;
+    border-radius: 30px;
+    margin-bottom: 40px;
+}
+
+.calendar_name > h1 {
+    font-size: 30px;
+    line-height: 100px;
+}
+
+.calendar_site{
+    background-color: rgba(206, 206, 206, 0.2);
+    text-align: center;
+    margin-top:20px;
+    margin-bottom: 80px;
+    padding : 20px 80px;
+    padding-bottom: 40px;
+    border-radius: 30px;
+    min-width: 1000px;
+}
+.calendar_imgs {
+    width: 100%;
+    margin: 0;
+    text-align: center;
+    justify-content: center;
+    display: block;
+}
+
+.calendar_imgs > a > img {
+    width: 100%;
+}
+
+p {
+    font-family: 'GangwonEduPowerExtraBoldA';
+}
+
+#cal {
+    content: '\00a0';
+    display: block;
+    margin: -100px 0 0;
+    height: 100px;
+}
