@@ -1,0 +1,145 @@
+/* 공통 */
+
+#container {
+    margin:150px 100px 50px 100px;
+}
+
+.cp_title {
+    font-size: 45px;
+    text-align: center;
+    font-weight: bold;
+    padding-bottom:20px;
+}
+
+.site_facilities {
+    background-color: rgba(206, 206, 206, 0.2);
+    margin: 20px auto 0px auto;
+    padding-top: 30px;
+    padding-right: 80px;
+    padding-left: 450px;
+    padding-bottom: 50px;
+    border-radius: 30px;
+    display: block;
+    position: relative;
+    min-width: 1000px;
+    max-width: 3000px;
+    text-align: center;
+}
+
+.site_name_facilities {
+    height: auto;
+    text-align: center;
+    background-color: rgba(45, 109, 204, 0.8);
+    color:white;
+    border-radius: 30px;
+    margin-bottom: 40px;
+}
+
+.site_name_facilities > h2 {
+    display: inline;
+    font-size: 30px;
+    line-height: 100px;
+}
+
+#bigImg {
+    margin-bottom: 10px;
+}
+
+#smallImg {
+    width: 310px;
+    height: 110px;
+    overflow: auto;
+    white-space: nowrap;
+    overflow-y: hidden;
+    cursor: pointer;
+}
+
+#smallImg::-webkit-scrollbar {
+    width: 10px;
+    height: 8px;
+  }
+  #smallImg::-webkit-scrollbar-thumb {
+    background-color: #2f3542;
+    border-radius: 10px;
+    height: 8px;
+  }
+  #smallImg::-webkit-scrollbar-track {
+    background-color: grey;
+    border-radius: 10px;
+    height: 8px;
+  }
+
+.textDiv {
+    display: inline-block;
+    padding-left: 30px;
+    min-height: 534px;
+    font-size:15px;
+    line-height:35px; 
+    word-spacing:3px;
+}
+
+.images {
+    position: absolute;
+    left: 50%;
+    margin-left: -42%;
+}
+
+
+
+/* 한빛관 관련 CSS */
+
+#hb_big {
+    width: 310px;
+    height: 410px;
+}
+
+.hb_small {
+    width: 100px;
+    height: 100px;
+}
+
+#hanbit {
+    content: '\00a0';
+    display: block;
+    margin: -100px 0 0;
+    height: 100px;
+}
+
+/* 공6호관 관련 CSS */
+
+#en_big {
+    width: 310px;
+    height: 410px;
+}
+
+.en_small {
+    width: 100px;
+    height: 100px;
+}
+
+#engineer6th {
+    content: '\00a0';
+    display: block;
+    margin: -100px 0 0;
+    height: 100px;
+}
+
+
+/* 60주년 관련 CSS */
+
+#kw60_big {
+    width: 310px;
+    height: 410px;
+}
+
+.kw60_small {
+    width: 100px;
+    height: 100px;
+}
+
+#kw60th {
+    content: '\00a0';
+    display: block;
+    margin: -100px 0 0;
+    height: 100px;
+}

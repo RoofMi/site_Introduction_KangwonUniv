@@ -1,0 +1,79 @@
+@import "index.css";
+@import "coding_page.css";
+@import "survey_page.css";
+@import "facilities_page.css";
+@import "locate_page.css";
+@import "res_page.css";
+@import "calendar.css";
+@import "festival.css";
+@import "gomduri.css";
+@import "kang-han.css";
+@import "schoolsymbol.css";
+@import "baekrok.css";
+@import "cheonji.css";
+@import "seokjae.css";
+
+@font-face {
+    font-family: 'twaysky';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_tway@1.0/twaysky.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GangwonEduPowerExtraBoldA';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/GangwonEduPowerExtraBoldA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'twaysky';
+}
+
+.cp_title {
+    font-size: 45px;
+    text-align: center;
+    font-weight: bold;
+    padding-bottom:20px;
+    max-width: 3000px;
+    min-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+hr {
+    max-width: 3000px;
+    min-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer{
+    width: 100%;
+    height: 110%;
+    background-color: gray;  
+    display: flex;
+    justify-content: center;
+    font-size:15px;
+}
+
+footer>div{
+    display: inline-block;
+    margin:20px;
+   
+}
+
+footer>div:nth-child(1){
+    padding-right:40px ;
+    border-right:4px solid #fff;    
+}
+
+footer>div>span{
+    color:white;
+}
+
+

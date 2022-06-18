@@ -1,0 +1,92 @@
+#container {
+    margin:150px 100px 50px 100px;
+}
+
+.cp_title {
+    font-size: 45px;
+    text-align: center;
+    font-weight: bold;
+    padding-bottom:20px;
+}
+
+.site_survey {
+    background-color: rgba(206, 206, 206, 0.2);
+    margin: 20px auto 0px auto;
+    padding : 20px 80px;
+    padding-bottom: 40px;
+    border-radius: 30px;
+    max-width: 3000px;
+    min-width: 1000px;
+}
+
+.site_name_survey {
+    /* 수정 크기 변경 : 6/12 이정배 */
+    height: auto;
+    text-align: center;
+    background-color: rgba(45, 109, 204, 0.8);
+    color:white;
+    border-radius: 30px;
+    margin-bottom:20px;
+}
+
+.site_name_survey > h2 {
+    display: inline;
+    font-size: 30px;
+    line-height: 100px;
+}
+
+.lab {
+    text-align: center;
+}
+
+.suv {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.survey_text {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.survey_text > p {
+    font-size: 18px;
+    display: inline-block;
+    margin-top: 30px;
+    width: 160px;
+    height: 30px;
+}
+
+label {
+    vertical-align: middle;
+}
+  
+input[type="radio"] {
+    vertical-align: middle;
+    margin-top: 50px;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+textarea {
+    width: 90%;
+    height: 150px;
+    resize: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding:20px;
+    font-size: 20px;
+}
+
+input[type="submit"] {
+    display: block;
+    margin: auto;
+    width: 100px;
+    height: 30px;
+}
+
+#result_text {
+    font-size: 35px;
+    text-align: center;
+    min-width: 1000px;
+}
